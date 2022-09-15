@@ -1,15 +1,13 @@
 # Hi there, I'm Steven. 👋
 
-🌱 I’m currently learning Computer System Technology at British Columbia Institute of Technology.
-### How to reach me
-📫 stevenkim1989@gmail.com
-
+🌱 I’m currently working at Avesdo as a software developer.
+Avesdo is a single, integrated Transaction Management Software (TMS) platform that streamlines the process of selling new home real estate.
 
 ### Skill set 🔥
 
-* HTML, CSS, JavaScript
-* Github, Firebase, MongoDB
-* Java, C
-* SQL, Oracle
-* Microsoft Access, Excel, Word, Powerpoint
-* Adobe Photoshop, Premiere Pro
+* HTML, CSS, JavaScript, TypeScript, C, C#, Java, Python, SQL, PHP
+* Github, Bitbucket, Jira, Confluence
+* AWS, Azure, Firebase, Docker
+
+### How to reach me
+📫 stevenkim1989@gmail.com
