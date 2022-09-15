@@ -1,6 +1,6 @@
 # Hi there, I'm Steven. 👋
 
-🌱 I’m currently working at Avesdo as a software developer.
+🌱 I’m currently working at Avesdo as a software developer.\
 Avesdo is a single, integrated Transaction Management Software (TMS) platform that streamlines the process of selling new home real estate.
 
 ### Skill set 🔥
