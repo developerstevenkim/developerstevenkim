@@ -1,13 +1,12 @@
 # Hi there, I'm Steven. 👋
 
-🌱 I’m currently working at Avesdo as a software developer.\
-Avesdo is a single, integrated Transaction Management Software (TMS) platform that streamlines the process of selling new home real estate.
+🌱 I’m currently open to work! If you are looking for a pasionate software developer, feel free to contact me.\
 
 ### Skill set 🔥
 
-* HTML, CSS, JavaScript, TypeScript, C, C#, Java, Python, SQL, PHP
+* HTML5, CSS, JavaScript, TypeScript, C#, Java, Python, SQL, PHP, React
 * Github, Bitbucket, Jira, Confluence
-* AWS, Azure, Firebase, Docker
+* Azure(Certified), AWS, Firebase, Docker
 
 ### How to reach me
 📫 stevenkim1989@gmail.com
