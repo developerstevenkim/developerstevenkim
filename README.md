@@ -1,6 +1,6 @@
 # Hi there, I'm Steven. 👋
 
-🌱 I’m currently open to work! If you are looking for a pasionate software developer, feel free to contact me.\
+🌱 I’m currently open to work! If you are looking for a pasionate software developer, feel free to contact me.
 
 ### Skill set 🔥
 
