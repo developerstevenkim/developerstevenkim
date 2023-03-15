@@ -9,4 +9,4 @@
 * Azure(Certified), AWS, Firebase, Docker
 
 ### How to reach me
-📫 stevenkim1989@gmail.com
+📫 devstevenkim@gmail.com
